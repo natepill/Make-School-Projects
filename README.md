@@ -1,3 +1,3 @@
 # Make School Projects
 
-This is my first IOS app at the Make School Summer Academy 2018
+This repo contains projects that I developed at my time at Make School Summer Academy 2018
